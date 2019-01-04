@@ -3,7 +3,7 @@
 set -e
 
 if [ $# -eq 0 ] ; then
-	echo "Usage: ./prepare.sh v#.#.#"
+	echo "Usage: ./update.sh v#.#.#"
 	exit
 fi
 
